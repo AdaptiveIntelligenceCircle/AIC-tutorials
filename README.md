@@ -1,5 +1,7 @@
 # AIC Tutorials
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/255d7baf-e73b-4f2f-8bbd-868fd601b2f9" />
+
 This repository provides a structured learning path for understanding
 and working with the Adaptive Intelligence Circle (AIC) ecosystem.
 
