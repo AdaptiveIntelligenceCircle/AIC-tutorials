@@ -1,4 +1,4 @@
-## 🛡️ Trademark Policy – AIC-Orchestration  
+## 🛡️ Trademark Policy – AIC-tutorials  
 **Prepared in accordance with the Madrid System for the International Registration of Marks**
 
 ### 1. Trademark Ownership  
