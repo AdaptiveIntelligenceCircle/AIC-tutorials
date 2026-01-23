@@ -1,7 +1,7 @@
 # AIC Tutorials
 
 <p align="center">
-  <img src="assets/AIC-Research.png" alt="AIC Logo" width="1024" length = "1024"/>
+  <img src="assets/AIC-tutorials.jpg" alt="AIC Logo" width="1024" length = "1024"/>
 </p>
 
 <p align="center">
