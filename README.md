@@ -1,6 +1,13 @@
 # AIC Tutorials
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/255d7baf-e73b-4f2f-8bbd-868fd601b2f9" />
+<p align="center">
+  <img src="assets/AIC-Research.png" alt="AIC Logo" width="1024" length = "1024"/>
+</p>
+
+<p align="center">
+  <strong> AIC tutorials </strong><br>
+  Decentralized nodes • Ethical scaling • Planetary readiness
+</p>
 
 This repository provides a structured learning path for understanding
 and working with the Adaptive Intelligence Circle (AIC) ecosystem.
